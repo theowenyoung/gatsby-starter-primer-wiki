@@ -1,22 +1,25 @@
 {
-  "name": "gatsby-starter-primer-wiki",
-  "version": "1.0.0",
   "private": true,
-  "description": "Gatsby Starter Primer Wiki",
-  "author": "Owen Young",
-  "keywords": [
-    "gatsby"
-  ],
+  "name": "wiki",
+  "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
-    "develop": "gatsby develop",
-    "start": "gatsby develop",
+    "develop": "gatsby develop -H 0.0.0.0",
+    "start": "gatsby develop -H 0.0.0.0",
     "build": "gatsby build",
+    "clean": "gatsby clean",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "test": "echo test"
   },
   "dependencies": {
-    "gatsby": "^3.12.1",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "gatsby": "^3.12.0",
+    "gatsby-plugin-google-gtag": "^3.12.0",
+    "gatsby-plugin-manifest": "^3.12.0",
+    "gatsby-plugin-robots-txt": "^1.6.9",
+    "gatsby-plugin-sitemap": "^4.8.0",
+    "gatsby-source-filesystem": "^3.12.0",
+    "gatsby-theme-primer-wiki": "^1.11.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }

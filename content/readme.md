@@ -1,3 +1,9 @@
+---
+tags:
+  - Readme
+  - Getting-Started
+---
+
 # Gatsby Starter for Gatsby Theme Primer Wiki
 
 **👋A Gatsbyjs starter that use [gatsby-theme-primer-wiki](https://github.com/theowenyoung/gatsby-theme-primer-wiki)**
@@ -65,4 +71,11 @@
     - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
     - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+
+
+
+## Config
+
+See [here](https://github.com/theowenyoung/gatsby-theme-primer-wiki#usage)
+
 

@@ -7,7 +7,7 @@ const siteMetadata = {
     "A starter that use gatsby-theme-primer-wiki",
   twitterName: "theowenyoung",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://gatsby-starter-primer-wiki.demo.owenyoung.com",
+  siteUrl: "https://demo-gatsby-starter-primer-wiki.owenyoung.com",
 };
 module.exports = {
   siteMetadata,
